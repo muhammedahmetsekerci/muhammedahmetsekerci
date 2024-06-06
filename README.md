@@ -27,10 +27,11 @@
 </p>
 
 ---
-<img align="left" width="290" src="https://github-readme-stats.vercel.app/api?username=muhammedahmetsekerci&show_icons=true&theme=white">
-<img align="right" width="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-
-<img align="center" width="300" src="https://leetcard.jacoblin.cool/muhammedahmetsekerci">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center;">
+  <img width="290" src="https://github-readme-stats.vercel.app/api?username=muhammedahmetsekerci&show_icons=true&theme=white" style="margin: 10px;">
+  <img width="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="margin: 10px;">
+  <img width="305" src="https://leetcard.jacoblin.cool/muhammedahmetsekerci" style="margin: 10px;">
+</div>
 
 
 

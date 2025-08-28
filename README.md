@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Muhammed Ahmet Şekerci</h1>
-<h3 align="center">I am a Computer Engineer.</h3>
+<h2 align="center">I am a Computer Engineer.</h2>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
